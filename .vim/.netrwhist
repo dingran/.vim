@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/dingran/aind-2017may/AIND-Sudoku'
+let g:netrw_dirhist_2='/Users/dingran/Dropbox/github/dingran-github-io/_data'
