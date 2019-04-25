@@ -27,4 +27,3 @@ colorscheme darcula
 set tabstop=4 softtabstop=4 shiftwidth=4 expandtab
 set textwidth=79
 set autoindent
-execute pathogen#infect()
