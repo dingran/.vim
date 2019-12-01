@@ -4,7 +4,7 @@ set nocompatible
 
 " ================ General Config ====================
 
-set mouse=v
+set mouse=a
 set hls
 set number                      "Line numbers are good
 set backspace=indent,eol,start  "Allow backspace in insert mode
@@ -25,6 +25,4 @@ syntax on
 syntax enable
 colorscheme darcula
 set tabstop=4 softtabstop=4 shiftwidth=4 expandtab
-set textwidth=79
 set autoindent
-execute pathogen#infect()
